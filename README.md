@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 My name is Kieran and I am a recent graduate from Rutgers University-New Brunswick
 
