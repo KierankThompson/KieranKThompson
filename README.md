@@ -1,9 +1,16 @@
 ## Hi there 👋
 
+My name is Kieran and I am a recent graduate from Rutgers University-New Brunswick
+
+Currently working on: bitorrent client in Go
+
+Leetcode: https://leetcode.com/u/anprim/
+
+
 <!--
 **KierankThompson/KieranKThompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
