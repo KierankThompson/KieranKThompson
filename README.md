@@ -1,6 +1,6 @@
 
 
-My name is Kieran and I am a current masters student at Rutgers Business School. I graduated with my Bachelor's degree in Computer Science from Rutgers.
+My name is Kieran and I am a current masters student at Rutgers Business School. I graduated with my Bachelor's degree in Computer Science from Rutgers School of Arts and Sciences.
 
 Currently working on: bitorrent client in Go
 
