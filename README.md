@@ -1,6 +1,6 @@
 
 
-My name is Kieran and I am a master student studying Quant Finance. Graduated with a BS in Computer Science.
+My name is Kieran and I am a masters student currently studying Quant Finance. Graduated with a BS in Computer Science.
 
 Currently working on: bitorrent client in Go
 
