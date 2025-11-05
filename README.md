@@ -2,7 +2,7 @@
 
 My name is Kieran and I am a masters student currently studying Quant Finance. Graduated with a BS in Computer Science.
 
-Currently working on: Advent of Code 2024 Solutions
+Currently working on: school...
 
 Leetcode: https://leetcode.com/u/anprim/
 
